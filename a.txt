@@ -1,3 +1,3 @@
 line 1 of a.txt
-line 2 : i changed this line to raise conflict
+changed this line to raise conflict
 line 3 of a.txt
