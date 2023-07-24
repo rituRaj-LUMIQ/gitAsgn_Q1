@@ -1,0 +1,3 @@
+line 1 of a.txt
+line 2 of a.txt
+line 3 of a.txt
